@@ -1,3 +1,24 @@
-Projeto desafio realizado por Nicolas da Silva Rodrigues e Gabriel Nobre
+# Projeto Desafio - Aplicativo em Kotlin
 
-Para que o projeto funcione, apenas dar Git Merge e rodar o código
+## 👨‍💻 Autores
+- Nicolas da Silva Rodrigues  
+- Gabriel Nobre  
+
+## 📋 Descrição
+Este projeto foi desenvolvido como parte de um desafio acadêmico.  
+O aplicativo é construído em **Kotlin** e tem como objetivo praticar conceitos de programação e integração com fontes externas de informação.
+
+## 🔑 Credenciais de Acesso
+- Usuário: `admin`  
+- Senha: `1234`  
+
+## ⚙️ Requisitos
+- **JDK 17** ou superior instalado  
+- **Android Studio** (ou IntelliJ IDEA com suporte a Kotlin)
+- **SDK 32** configurado no emulador ou dispositivo físico  
+- Conexão com a internet para acessar URLs externas  
+
+## ▶️ Como Executar
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/ncdsrNicolas/Kotlin_CadastroDestino
