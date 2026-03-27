@@ -33,14 +33,16 @@
                 android:id="@+id/btn_explorar"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Explorar"/>
+                android:backgroundTint="#E2800E"
+                android:text="Explorar" />
 
             <Button
                 android:id="@+id/btn_excluir"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Excluir"
-                android:layout_marginStart="8dp"/>
+                android:layout_marginStart="8dp"
+                android:backgroundTint="#E2800E"
+                android:text="Excluir" />
         </LinearLayout>
     </LinearLayout>
 </androidx.cardview.widget.CardView>
