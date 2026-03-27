@@ -5,7 +5,7 @@
 - Gabriel Nobre  
 
 ## 📋 Descrição
-Este projeto foi desenvolvido como parte de um desafio acadêmico.  
+Este projeto foi desenvolvido como parte de um desafio acadêmico idealizado pelo Professor Alessandro na matéria de Programação para Dispositivos Mobiles.  
 O aplicativo é construído em **Kotlin** e tem como objetivo praticar conceitos de programação e integração com fontes externas de informação.
 
 ## 🔑 Credenciais de Acesso
